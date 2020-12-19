@@ -1,7 +1,7 @@
 # CreateFolders
 Creates folders for OneDrive transfer of files using mover.io
 
-I created a new domain so I could get the Standard Edition of Microsoft 365 so I could get Teams.  
+I created a new domain so I could get the Standard Edition of Microsoft 365 and get Teams.  
 
 After subscribing to Standard Edition, I was going to cancel my Family Edition, but I found out that I also got a new OneDrive with the new Office apps.  
 I have a lot of stuff on my OneDrive because that is where Office tends to put them.  I also put many of my projects, such as the ones found in this repo, on OneDrive.  I won't even mention pictures and videos I do not want to lose. 
